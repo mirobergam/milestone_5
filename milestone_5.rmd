@@ -1,0 +1,28 @@
+---
+title: "Milestone 5"
+author: "Miroslav Bergam"
+date: "10/18/2019"
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## How Streaming and Spotify have Impacted Music Consumption
+
+### About
+
+In this project, I analyze how the advent of streaming has changed the landscape of music consumption. I look at the sales numbers themselves, investing the proportion of music sales that are attributed to streams each year and how it has increased. I also look at how streaming has  changed the chart characteristically, from how long songs stay on the chart (duration) to how many number #1 hits there are per year to what genres dominate streaming vs traditional sales. 
+
+#### Sources  
+
+**Source 1**: Spotify makes all of their music streaming data accessible on spotifycharts.com, allowing one to download csv files of every weekly or daily streaming cycle.
+<a href="https://spotifycharts.com/regional">Spotify Charts</a>
+
+**Source 2**: Data.world user Sean Miller compiled each weekly Billboard Hot 100 chart from the beginning of the chart to 2018. 
+<a href="https://data.world/kcmillersean/billboard-hot-100-1958-2017">Billboard Charts</a>
+
+
+#### About the Author  
+
+I am a freshman at Harvard College from New Jersey. I am interested in data, policy, and the humanities!
